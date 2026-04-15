@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'CSC324 Portfolio'
+theme = 'moonwalk-hugo'
