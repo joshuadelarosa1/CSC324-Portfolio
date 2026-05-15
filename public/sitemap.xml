@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-14T16:41:29-05:00</lastmod>
+    <lastmod>2026-04-15T13:48:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/needfinding/</loc>
-    <lastmod>2026-04-14T16:41:29-05:00</lastmod>
+    <loc>http://localhost:1313/posts/medium-scale-architecture/</loc>
+    <lastmod>2026-04-15T13:48:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-15T13:48:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/medium-scale-abstraction/</loc>
+    <lastmod>2026-04-15T13:47:34-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/testing-infrastructure/</loc>
+    <lastmod>2026-04-15T13:47:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/testing-strategies/</loc>
+    <lastmod>2026-04-15T13:47:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/collaboration/</loc>
+    <lastmod>2026-04-15T13:46:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/process/</loc>
+    <lastmod>2026-04-15T13:46:45-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/self-learning/</loc>
+    <lastmod>2026-04-15T13:46:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/infrastructure/</loc>
+    <lastmod>2026-04-15T13:46:31-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/evaluation/</loc>
+    <lastmod>2026-04-15T13:46:09-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/prototyping/</loc>
+    <lastmod>2026-04-15T13:46:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/needfinding/</loc>
     <lastmod>2026-04-14T16:41:29-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

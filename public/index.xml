@@ -1,19 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
+    <title>CSC324 Portfolio</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <description>Recent content on CSC324 Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 16:41:29 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:48:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medium Scale Architecture</title>
+      <link>http://localhost:1313/posts/medium-scale-architecture/</link>
+      <pubDate>Wed, 15 Apr 2026 13:48:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/medium-scale-architecture/</guid>
+      <description>&lt;h2 id=&#34;medium-scale-architecture&#34;&gt;Medium Scale Architecture&lt;/h2&gt;&#xA;&lt;p&gt;Choose one of the components of your project that you (co-)designed according to its architecture, e.g., front-end versus back-end:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What architectural pattern does your program employ?&lt;/li&gt;&#xA;&lt;li&gt;What components result from this pattern in your program?&lt;/li&gt;&#xA;&lt;li&gt;What technologies and/or libraries make-up each of the components?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Medium Scale Abstraction</title>
+      <link>http://localhost:1313/posts/medium-scale-abstraction/</link>
+      <pubDate>Wed, 15 Apr 2026 13:47:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/medium-scale-abstraction/</guid>
+      <description>&lt;h2 id=&#34;medium-scale-abstraction&#34;&gt;Medium Scale Abstraction&lt;/h2&gt;&#xA;&lt;p&gt;Choose a part of the project that you (co-)wrote that employs medium-scale abstraction:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What functionality does your code sample abstract away?&lt;/li&gt;&#xA;&lt;li&gt;How does it mechanical achieve abstraction?&lt;/li&gt;&#xA;&lt;li&gt;What purpose does this abstraction serve in your larger program?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Testing Infrastructure</title>
+      <link>http://localhost:1313/posts/testing-infrastructure/</link>
+      <pubDate>Wed, 15 Apr 2026 13:47:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/testing-infrastructure/</guid>
+      <description>&lt;h2 id=&#34;testing-infrastructure&#34;&gt;Testing Infrastructure&lt;/h2&gt;&#xA;&lt;p&gt;Identify relevant components from your development infrastructure (IDE, build, etc.) that you use to test your project:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How have you automated your tests so that they both take &amp;ldquo;1-click&amp;rdquo; to run and run automatically as part of build validation.&lt;/li&gt;&#xA;&lt;li&gt;Describe a specific occurrence in which your testing infrastructure saved you and/or your team work?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Testing Strategies</title>
+      <link>http://localhost:1313/posts/testing-strategies/</link>
+      <pubDate>Wed, 15 Apr 2026 13:47:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/testing-strategies/</guid>
+      <description>&lt;h2 id=&#34;testing-strategies&#34;&gt;Testing Strategies&lt;/h2&gt;&#xA;&lt;p&gt;Identify a component of your project that you were responsible for testing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;According to code coverage tools, what aspects of this component are covered with tests?&lt;/li&gt;&#xA;&lt;li&gt;What kinds of tests are they?&lt;/li&gt;&#xA;&lt;li&gt;For code that is not covered by tests, why did you not cover them?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/posts/collaboration/</link>
+      <pubDate>Wed, 15 Apr 2026 13:46:51 -0500</pubDate>
+      <guid>http://localhost:1313/posts/collaboration/</guid>
+      <description>&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;&#xA;&lt;p&gt;Identify three different instances where you participated in collaborative work with your team as identified by specific commits, pull requests, and/or issue numbers on Github. These instances should not simply be &amp;ldquo;committing code&amp;rdquo; but situations that required back and forth with your peers, e.g., a substantial bug or a code review:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identify the work you did in each of these instances.&lt;/li&gt;&#xA;&lt;li&gt;Describe the difficulties that necessitated communication with your peers in each instance.&lt;/li&gt;&#xA;&lt;li&gt;Did you encounter any difficulties in collaboration with team during these instances? If so, how did you resolve those difficulties?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>http://localhost:1313/posts/process/</link>
+      <pubDate>Wed, 15 Apr 2026 13:46:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/process/</guid>
+      <description>&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;&#xA;&lt;p&gt;Answer the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What software engineering practices did your group employ to manage, distribute, and execute on their work?&lt;/li&gt;&#xA;&lt;li&gt;In your estimation, how well did your group follow through on using these processes throughout the semester?&lt;/li&gt;&#xA;&lt;li&gt;What, if anything, got in the way of integrating these process into your workflow?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Self Learning</title>
+      <link>http://localhost:1313/posts/self-learning/</link>
+      <pubDate>Wed, 15 Apr 2026 13:46:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/self-learning/</guid>
+      <description>&lt;h2 id=&#34;self-learning&#34;&gt;Self Learning&lt;/h2&gt;&#xA;&lt;p&gt;Identify a portion of your tech tutorial that you developed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Describe the technology that the tutorial addresses and how it fits into your project.&lt;/li&gt;&#xA;&lt;li&gt;Evaluate how useful the tool was in your work. What were its strengths and weaknesses, especially in comparison with other tools you have used.&lt;/li&gt;&#xA;&lt;li&gt;Identify one particular sticking point to using this technology that you would want your team to know about when adopting the tool and how you resolved it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>http://localhost:1313/posts/infrastructure/</link>
+      <pubDate>Wed, 15 Apr 2026 13:46:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/infrastructure/</guid>
+      <description>&lt;h2 id=&#34;infrastructure&#34;&gt;Infrastructure&lt;/h2&gt;&#xA;&lt;p&gt;Answer the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What development tools did you use through process to help write code and automate the build/deployment process?&lt;/li&gt;&#xA;&lt;li&gt;What is one specific problem (e.g., debugging and issue) that you encountered while writing code and how did your tools help or hinder your ability to address that problem?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Evaluation</title>
+      <link>http://localhost:1313/posts/evaluation/</link>
+      <pubDate>Wed, 15 Apr 2026 13:46:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/evaluation/</guid>
+      <description>&lt;h2 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h2&gt;&#xA;&lt;p&gt;Identify relevant artifacts from the human-centered design process that address the following points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What was the design of your user study to evaluate your artifact?&lt;/li&gt;&#xA;&lt;li&gt;What were the results of this user study?&lt;/li&gt;&#xA;&lt;li&gt;What were the main points of future development that you took away from this activity?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Prototyping</title>
+      <link>http://localhost:1313/posts/prototyping/</link>
+      <pubDate>Wed, 15 Apr 2026 13:46:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/prototyping/</guid>
+      <description>&lt;h2 id=&#34;prototyping&#34;&gt;Prototyping&lt;/h2&gt;&#xA;&lt;p&gt;Identify relevant artifacts from the human-centered design process that address the following points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What design questions did your intend to answer with your prototype(s).&lt;/li&gt;&#xA;&lt;li&gt;How did you design your prototype(s) and subsequent user studies to address these questions?&lt;/li&gt;&#xA;&lt;li&gt;What answers to your design questions did your efforts unveil?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Needfinding</title>
       <link>http://localhost:1313/posts/needfinding/</link>
       <pubDate>Tue, 14 Apr 2026 16:41:29 -0500</pubDate>
       <guid>http://localhost:1313/posts/needfinding/</guid>
-      <description>&lt;h2 id=&#34;needfinding&#34;&gt;Needfinding&lt;/h2&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;needfinding&#34;&gt;Needfinding&lt;/h2&gt;&#xA;&lt;p&gt;Evidence that I have completed this competency:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).&#xA;You should also include relevant code snippets and/or screenshots/images in your write-up.&lt;/li&gt;&#xA;&lt;li&gt;A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.&lt;/li&gt;&#xA;&lt;li&gt;A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
