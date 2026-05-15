@@ -6,13 +6,11 @@ title = 'Self Learning'
 
 ## Self Learning
 
-Identify a portion of your tech tutorial that you developed:
-* Describe the technology that the tutorial addresses and how it fits into your project.
-* Evaluate how useful the tool was in your work. What were its strengths and weaknesses, especially in comparison with other tools you have used.
-* Identify one particular sticking point to using this technology that you would want your team to know about when adopting the tool and how you resolved it.
+![self learning snippet](/static/images/selflearning_snippet.png)
 
-Evidence that I have completed this competency:
-* A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).
-You should also include relevant code snippets and/or screenshots/images in your write-up.
-* A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.
-* A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.
+For our tech tutorial we discussed Lua, our "technology", and Löve, the framework for our technology. Lua was the programming language we used to code our game. We used Löve as the basis to compile our game and get access to important functions (like love.graphics). It is especially useful for creating 2D games where it is important to easily see/test both the front-end and the back-end. What is lacks is more extensive testing capabilities, especially when it comes to the front-end of a game. When comparing with Unity, we realized that Lua was more suited to what our needs were. While Unity provided a lot of functionality for 3D objects, we wanted our game to be 2D.
+
+One "sticking point" is being in communication when seperating the functionality of the back-end and front-end. There were multiple times were one portion of the code broke, which made all of the code not work despite not being directly related to the issue going on. For example, if I was testing implementing an asset into a scene and it didn't work, this would also make Cononr or Gabi's code brake on the back-end. I also think learning what "scenes" are and how to incorporate scenes into the process overall is especially useful for all team members to know. This allows work to be divided up more easily. 
+
+This snippet is located in our tech talk slide deck (not on any of our repos). I was able to contribute the slide which describes the benefits of using Love2D as well as why our group chose it over other technologies. This demonstrates the competency because I had the opportunity to self-learn Lua and Love2D as well as show the strengths against Unity and GameMaker. 
+
