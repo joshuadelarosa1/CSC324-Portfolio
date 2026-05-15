@@ -9,6 +9,7 @@ title = 'Collaboration'
 # Instance 1
 
 ![instance 1](/CSC324-Portfolio/images/instance1.png)
+
 ![instance 1 code snippet](/CSC324-Portfolio/images/instance1_codesnippet.png)
 
 (1) filing and/or resolving a bug, (2) filing a pull request
@@ -36,6 +37,7 @@ This instance demonstrates collaboration because (1) I filed a pull request, (2)
 (3) performing a code review of a pull request
 
 ![instance 3 snippet 1](/CSC324-Portfolio/images/instance3_snippet1.png)
+
 ![instance 3 snippet 2](/CSC324-Portfolio/images/instance3_snippet2.png)
 
 In this instance, I reviewed a pull request that Connor made to look for any potential bugs or conflicts that could arrise from what he added. The changes being added were to the styling of the stats features on the main_menu screen. I was able to do this review because Connor added to code that I worked on and knew well. When going through the code, we needed to discuss the reasoning behind some portions of what he had written, so we went through the files together. After doing the review, I better understood his changes and realized it was only affecting the stats portion of the screen rather than the other assets that I had worked on originally. One difficulty that we encountered was not knowing that we were both updating the same file at the same time, which caused some conflicts between ideas. When we realized, however, that we were working on different portions of the same file, we were able to not overlap or mesh too much while still having the same understanding of the overarching code.

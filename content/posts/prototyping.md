@@ -7,6 +7,7 @@ title = 'Prototyping'
 ## Prototyping
 
 ![needfinding snippet](/CSC324-Portfolio/images/prototyping_snippet.png)
+
 ![needfinding snippet](/CSC324-Portfolio/images/prototyping_final.png)
 
 For prototyping, I looked to answer the following questions: What makes character design screens easy to understand? What makes them simple to use? This was important to our GrinnSim because it added another level of specificity to the Grinnell life and felt more personal. I designed my prototype by first looking at references from other mobile and non-mobile games (I looked specifically at the Mii character creation screen as well as a few others) which had character design screens, and then basing my wireframing on what I thought my answers to the questions would be (aka what I think a simple, good character design screen should look like). I also wanted those who looked at my wireframing to determine whether or not they would know what is happening overall, so I formed any follow-up questions around answering that question. My original wireframing is shown in the first image above. 

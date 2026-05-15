@@ -7,6 +7,7 @@ title = 'Testing Infrastructure'
 ## Testing Infrastructure
 
 ![testing_infrastructure_snippet](/CSC324-Portfolio/images/testing_infrastructure_snippet.png)
+
 ![testing_infrastructure_snippet 2](/CSC324-Portfolio/images/testing_infrastructure_snippet2.png)
 
 Yes, my tests are automated so they only take "1-click" and run with the build validation. We run our tests by using a terminal line and directly running the tests with lua. If any tests fail, our testing suite lets us know and the other tests continue to run. While my tests did not catch unexpected behavior in the mechanics themselves of the game, running my tests showed an initialization issue caused by love.window not functioning properly during the module load time. This was harmful for the other files which depended on our scene manager, and prompted me to add "guarding" on getting the desktop dimensions in the cases where love.window is taking longer to load. This would prevent the lua 'blue screen' that happens when an error occurs.  
