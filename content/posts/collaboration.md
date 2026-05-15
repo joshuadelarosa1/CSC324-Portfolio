@@ -19,8 +19,8 @@ You should also include relevant code snippets and/or screenshots/images in your
 
 # Instance 1
 
-![instance 1](/static/images/instance1.png)
-![instance 1 code snippet](/static/images/instance1_codesnippet.png)
+![instance 1](/CSC324-Portfolio/images/instance1.png)
+![instance 1 code snippet](/CSC324-Portfolio/images/instance1_codesnippet.png)
 
 In this instance, I began the implementation of the button assets onto the main screen of GrinnSim. When attempting to do a pull request, we noticed that I committed a lot of unnecessary libraries which I had not noticed before. This was causing problems (a blue screen) with running and testing the new button assets. I did not enconter difficultes collaborating in this pull request, Gabi and I worked together to identify the issue, reverse what I had committed, and recommit only what was necessary and properly working.
 
@@ -30,7 +30,7 @@ This instance demonstrates collaboration because I used Gabi's feedback to rewor
 
 # Instance 2
 
-![instance 2](/static/images/instance2.png)
+![instance 2](/CSC324-Portfolio/images/instance2.png)
 
 ## Identification:
 

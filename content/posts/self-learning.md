@@ -6,7 +6,7 @@ title = 'Self Learning'
 
 ## Self Learning
 
-![self learning snippet](/static/images/selflearning_snippet.png)
+![self learning snippet](/CSC324-Portfolio/images/selflearning_snippet.png)
 
 For our tech tutorial we discussed Lua, our "technology", and Löve, the framework for our technology. Lua was the programming language we used to code our game. We used Löve as the basis to compile our game and get access to important functions (like love.graphics). It is especially useful for creating 2D games where it is important to easily see/test both the front-end and the back-end. What is lacks is more extensive testing capabilities, especially when it comes to the front-end of a game. When comparing with Unity, we realized that Lua was more suited to what our needs were. While Unity provided a lot of functionality for 3D objects, we wanted our game to be 2D.
 

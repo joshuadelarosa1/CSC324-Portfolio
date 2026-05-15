@@ -2,47 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/</loc>
     <lastmod>2026-04-15T13:48:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/medium-scale-architecture/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/medium-scale-architecture/</loc>
     <lastmod>2026-04-15T13:48:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/</loc>
     <lastmod>2026-04-15T13:48:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/medium-scale-abstraction/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/medium-scale-abstraction/</loc>
     <lastmod>2026-04-15T13:47:34-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/testing-infrastructure/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/testing-infrastructure/</loc>
     <lastmod>2026-04-15T13:47:19-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/testing-strategies/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/testing-strategies/</loc>
     <lastmod>2026-04-15T13:47:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/collaboration/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/collaboration/</loc>
     <lastmod>2026-04-15T13:46:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/process/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/process/</loc>
     <lastmod>2026-04-15T13:46:45-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/self-learning/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/self-learning/</loc>
     <lastmod>2026-04-15T13:46:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/infrastructure/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/ideation/</loc>
     <lastmod>2026-04-15T13:46:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/evaluation/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/infrastructure/</loc>
+    <lastmod>2026-04-15T13:46:31-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/evaluation/</loc>
     <lastmod>2026-04-15T13:46:09-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/prototyping/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/prototyping/</loc>
     <lastmod>2026-04-15T13:46:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/needfinding/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/posts/needfinding/</loc>
     <lastmod>2026-04-14T16:41:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/CSC324-Portfolio/tags/</loc>
   </url>
 </urlset>

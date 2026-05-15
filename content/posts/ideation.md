@@ -6,7 +6,7 @@ title = 'Ideation'
 
 ## Ideation
 
-![ideation snippet](/static/images/ideation_snippet.png)
+![ideation snippet](/CSC324-Portfolio/images/ideation_snippet.png)
 
 This snippet is located in our Design repository, under the file "CSC324 Needfinding and Ideation.pdf". We all worked on ideation together as a group, and Connor wrote out our process for us (thank you Connor). 
 
