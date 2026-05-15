@@ -6,13 +6,9 @@ title = 'Prototyping'
 
 ## Prototyping
 
-Identify relevant artifacts from the human-centered design process that address the following points:
-* What design questions did your intend to answer with your prototype(s).
-* How did you design your prototype(s) and subsequent user studies to address these questions?
-* What answers to your design questions did your efforts unveil?
+![needfinding snippet](/CSC324-Portfolio/images/prototyping_snippet.png)
+![needfinding snippet](/CSC324-Portfolio/images/prototyping_final.png)
 
-Evidence that I have completed this competency:
-* A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).
-You should also include relevant code snippets and/or screenshots/images in your write-up.
-* A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.
-* A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.
+For prototyping, I looked to answer the following questions: What makes character design screens easy to understand? What makes them simple to use? This was important to our GrinnSim because it added another level of specificity to the Grinnell life and felt more personal. I designed my prototype by first looking at references from other mobile and non-mobile games (I looked specifically at the Mii character creation screen as well as a few others) which had character design screens, and then basing my wireframing on what I thought my answers to the questions would be (aka what I think a simple, good character design screen should look like). I also wanted those who looked at my wireframing to determine whether or not they would know what is happening overall, so I formed any follow-up questions around answering that question. My original wireframing is shown in the first image above. 
+
+I found that, when discussing with peers outside of the class, having a simple setup with a 'preview' along with other options was a good choice. What I realized or changed, however, was the placing of options in seperate boxes under each category. This would make it difficult to add more options and overall just overcomplicate the code. Those adaptations are seen in the final prototype of the character design screen, where I switched from box options to a slider that clicks through options instead. I did not use AI to build portions of this sample, I used Gabi's wireframe as a reference to what mine could/should look like. This demonstrates my achieval of this competency because I was able to create a prototype to answer design questions, gain information from the answers to my design questions, and then adapt the final version of my prototype based on what I learned.   

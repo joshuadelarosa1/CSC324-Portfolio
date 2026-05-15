@@ -32,14 +32,8 @@ This instance demonstrates collaboration because I used Gabi's feedback to rewor
 
 ![instance 2](/CSC324-Portfolio/images/instance2.png)
 
-## Identification:
-
-## Evidence
-
 # Instance 3
 
 ![image]()
 
-## Identification:
-
-## Evidence
+# Instance 4
