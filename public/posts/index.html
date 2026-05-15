@@ -25,19 +25,9 @@
   
     <h2><a href="/CSC324-Portfolio/posts/medium-scale-architecture/">Medium Scale Architecture</a></h2>
     <h2 id="medium-scale-architecture">Medium Scale Architecture</h2>
-<p>Choose one of the components of your project that you (co-)designed according to its architecture, e.g., front-end versus back-end:</p>
-<ul>
-<li>What architectural pattern does your program employ?</li>
-<li>What components result from this pattern in your program?</li>
-<li>What technologies and/or libraries make-up each of the components?</li>
-</ul>
-<p>Evidence that I have completed this competency:</p>
-<ul>
-<li>A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).
-You should also include relevant code snippets and/or screenshots/images in your write-up.</li>
-<li>A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.</li>
-<li>A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.</li>
-</ul>
+<p><img src="/CSC324-Portfolio/images/architecture_scenes.png" alt="scene based architecture">
+<img src="/CSC324-Portfolio/images/architecture_assets.png" alt="asset architecture"></p>
+<p>I co-designed the front-end portion of GrinnSim. The architectural pattern that our program employs is a scene-based architecture. This works by switching through our &ldquo;scenes&rdquo; to activate different displays/options on the screen. In particular, I focused mainly on the character design and main menu scenes, which had a lot more assets in comparision to submenu screnes (that were mostly text based gameplay). The components that result from this are the scenes modules themselves, along with the components that comprise each scene. The components in the character design screen, for example, are the asset management (how I organized the assets into different categories to be used and drawn at different stages) and the ui layout system (how everything was drawn on the screen). For most components, we used the love.graphics library to load assets into the front-end and create shapes using Love2D as needed.</p>
   
     <h2><a href="/CSC324-Portfolio/posts/medium-scale-abstraction/">Medium Scale Abstraction</a></h2>
     <h2 id="medium-scale-abstraction">Medium Scale Abstraction</h2>
@@ -102,12 +92,12 @@ You should also include relevant code snippets and/or screenshots/images in your
   
     <h2><a href="/CSC324-Portfolio/posts/self-learning/">Self Learning</a></h2>
     <h2 id="self-learning">Self Learning</h2>
-<p><img src="/static/images/selflearning_snippet.png" alt="self learning snippet"></p>
+<p><img src="/CSC324-Portfolio/images/selflearning_snippet.png" alt="self learning snippet"></p>
 <p>For our tech tutorial we discussed Lua, our &ldquo;technology&rdquo;, and Löve, the framework for our technology. Lua was the programming language we used to code our game. We used Löve as the basis to compile our game and get access to important functions (like love.graphics). It is especially useful for creating 2D games where it is important to easily see/test both the front-end and the back-end. What is lacks is more extensive testing capabilities, especially when it comes to the front-end of a game. When comparing with Unity, we realized that Lua was more suited to what our needs were. While Unity provided a lot of functionality for 3D objects, we wanted our game to be 2D.</p>
   
     <h2><a href="/CSC324-Portfolio/posts/ideation/">Ideation</a></h2>
     <h2 id="ideation">Ideation</h2>
-<p><img src="/static/images/ideation_snippet.png" alt="ideation snippet"></p>
+<p><img src="/CSC324-Portfolio/images/ideation_snippet.png" alt="ideation snippet"></p>
 <p>This snippet is located in our Design repository, under the file &ldquo;CSC324 Needfinding and Ideation.pdf&rdquo;. We all worked on ideation together as a group, and Connor wrote out our process for us (thank you Connor).</p>
 <p>In terms of techniques, we used multiple methods of ideation. Specifically, we employed round-robin pitch ideas, reference game benchmarking and team goal alignment. After conducting our needfinding and discovering what users would like to see in a mobile game, we came up with ideas which would fufill those needs. I originally pitched a puzzle game, similar to one we had seen in class, but realized that it would be hard to incorporate Grinnell specific aspects to the game and also hard to gage difficulty level for a variety of users. Gabi and I then worked together to pitch the idea of having a Grinnell life simulator. We used &lsquo;BitLife&rsquo; as our &lsquo;reference game&rsquo; which would help us give the gist of what we were going for.</p>
   
@@ -144,23 +134,13 @@ You should also include relevant code snippets and/or screenshots/images in your
   
     <h2><a href="/CSC324-Portfolio/posts/prototyping/">Prototyping</a></h2>
     <h2 id="prototyping">Prototyping</h2>
-<p>Identify relevant artifacts from the human-centered design process that address the following points:</p>
-<ul>
-<li>What design questions did your intend to answer with your prototype(s).</li>
-<li>How did you design your prototype(s) and subsequent user studies to address these questions?</li>
-<li>What answers to your design questions did your efforts unveil?</li>
-</ul>
-<p>Evidence that I have completed this competency:</p>
-<ul>
-<li>A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).
-You should also include relevant code snippets and/or screenshots/images in your write-up.</li>
-<li>A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.</li>
-<li>A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.</li>
-</ul>
+<p><img src="/CSC324-Portfolio/images/prototyping_snippet.png" alt="needfinding snippet">
+<img src="/CSC324-Portfolio/images/prototyping_final.png" alt="needfinding snippet"></p>
+<p>For prototyping, I looked to answer the following questions: What makes character design screens easy to understand? What makes them simple to use? This was important to our GrinnSim because it added another level of specificity to the Grinnell life and felt more personal. I designed my prototype by first looking at references from other mobile and non-mobile games (I looked specifically at the Mii character creation screen as well as a few others) which had character design screens, and then basing my wireframing on what I thought my answers to the questions would be (aka what I think a simple, good character design screen should look like). I also wanted those who looked at my wireframing to determine whether or not they would know what is happening overall, so I formed any follow-up questions around answering that question. My original wireframing is shown in the first image above.</p>
   
     <h2><a href="/CSC324-Portfolio/posts/needfinding/">Needfinding</a></h2>
     <h2 id="needfinding">Needfinding</h2>
-<p><img src="/static/images/needfinding_snippet.png" alt="needfinding snippet"></p>
+<p><img src="/CSC324-Portfolio/images/needfinding_snippet.png" alt="needfinding snippet"></p>
 <p>In order to discover users&rsquo; needs, we conducted interviews to gauge what users like and dislike about mobile games. From this process, we learned that users really value the visual looks and feel of mobile games. They also enjoy having a story aspect/motivation to continue playing the game. Balancing the difficulty of the game was also very vital in keeping users hooked on playing a mobile game. One interview, in particular, also gave us the other side of the spectrum as a user who does not really like playing mobile games. For this interviewee, the most important aspect of a mobile game was being something that is mentally stimulating, but also quick to do during the day (like NYT games).</p>
   
 

@@ -6,13 +6,10 @@ title = 'Medium Scale Architecture'
 
 ## Medium Scale Architecture
 
-Choose one of the components of your project that you (co-)designed according to its architecture, e.g., front-end versus back-end:
-* What architectural pattern does your program employ?
-* What components result from this pattern in your program?
-* What technologies and/or libraries make-up each of the components?
+![scene based architecture](/CSC324-Portfolio/images/architecture_scenes.png)
 
-Evidence that I have completed this competency:
-* A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).
-You should also include relevant code snippets and/or screenshots/images in your write-up.
-* A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.
-* A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.
+![asset architecture](/CSC324-Portfolio/images/architecture_assets.png)
+
+I co-designed the front-end portion of GrinnSim. The architectural pattern that our program employs is a scene-based architecture. This works by switching through our "scenes" to activate different displays/options on the screen. In particular, I focused mainly on the character design and main menu scenes, which had a lot more assets in comparision to submenu screnes (that were mostly text based gameplay). The components that result from this are the scenes modules themselves, along with the components that comprise each scene. The components in the character design screen, for example, are the asset management (how I organized the assets into different categories to be used and drawn at different stages) and the ui layout system (how everything was drawn on the screen). For most components, we used the love.graphics library to load assets into the front-end and create shapes using Love2D as needed. 
+
+The example of architectural pattern can be found in the GrinnSim repository, specifically in the character design and main menu files. I used ChatGPT to help me with some formatting issues in the main menu scene, but not with the implementation of scenes overall. This demonstrates completion of this compentency because I was able to employ a architectural pattern (scene management) as a blueprint for the structure of GrinnSim's code.
