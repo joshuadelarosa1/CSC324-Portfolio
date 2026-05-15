@@ -6,8 +6,8 @@ title = 'Medium Scale Abstraction'
 
 ## Medium Scale Abstraction
 
-![abstraction snippet](/CSC324-Portfolio/images/abstraction_snippet)
-![abstraction snippet 2](/CSC324-Portfolio/images/abstraction_snippet2)
+![abstraction snippet](/CSC324-Portfolio/images/abstraction_snippet.png)
+![abstraction snippet 2](/CSC324-Portfolio/images/abstraction_snippet2.png)
 
 A portion of the project that I co-wrote and employs medium-scale abstraction is the CircleNav functionality to create the circle buttons on the main menu screen. This code "abstracts away" the need to create new circle buttons and calculating their position on the screen each time they need to be placed/implemented. This works mechanically by obtaining the dimensions of the screen (which can be updated as needed) to calculate the positions of the buttons. Then the buttons, labels, and targets are created/loaded themselves based on the calculate_position function. This abstraction serves the larger program by successfully implementing a navigation system in our UI that can be reused as needed in other scenes besides the main menu. I was originally thinking it would also be applied for the character creation scene, but this didn't end up making as much sense.
 

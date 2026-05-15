@@ -16,3 +16,5 @@ Evidence that I have completed this competency:
 You should also include relevant code snippets and/or screenshots/images in your write-up.
 * A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.
 * A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.
+
+* The code that was not able to be covered by tests were the majority of the UI functions/implementation. It is especially difficult to run automatic tests which check for validity of different aspects of the UI. Instead of coding these tests, they had to be done manually.
