@@ -6,13 +6,11 @@ title = 'Medium Scale Abstraction'
 
 ## Medium Scale Abstraction
 
-Choose a part of the project that you (co-)wrote that employs medium-scale abstraction:
-* What functionality does your code sample abstract away?
-* How does it mechanical achieve abstraction?
-* What purpose does this abstraction serve in your larger program?
+![abstraction snippet](/CSC324-Portfolio/images/abstraction_snippet)
+![abstraction snippet 2](/CSC324-Portfolio/images/abstraction_snippet2)
 
-Evidence that I have completed this competency:
-* A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).
-You should also include relevant code snippets and/or screenshots/images in your write-up.
-* A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.
-* A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.
+A portion of the project that I co-wrote and employs medium-scale abstraction is the CircleNav functionality to create the circle buttons on the main menu screen. This code "abstracts away" the need to create new circle buttons and calculating their position on the screen each time they need to be placed/implemented. This works mechanically by obtaining the dimensions of the screen (which can be updated as needed) to calculate the positions of the buttons. Then the buttons, labels, and targets are created/loaded themselves based on the calculate_position function. This abstraction serves the larger program by successfully implementing a navigation system in our UI that can be reused as needed in other scenes besides the main menu. I was originally thinking it would also be applied for the character creation scene, but this didn't end up making as much sense.
+
+This code is in the CircleNav.lua file in the style/widgets folder of the GrinnSim repository. I used what Gabi & Marina started for this file as a base, and then updated when implementing assets (instead of only using love2d to draw circles). This was especially relevant for updating the calculate_position and get/draw button functions. I used ChatGPT to debug some of the positioning on the screen.
+
+This demonstrates that I completed the abstraction competency because I abstracted away the need to load and position our circle buttons every time, which was especially relevant for our circle navigation system that was essential for users to play the game. 
