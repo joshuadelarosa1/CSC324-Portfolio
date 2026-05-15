@@ -25,8 +25,8 @@
   
     <h2><a href="/CSC324-Portfolio/posts/medium-scale-architecture/">Medium Scale Architecture</a></h2>
     <h2 id="medium-scale-architecture">Medium Scale Architecture</h2>
-<p><img src="/CSC324-Portfolio/images/architecture_scenes.png" alt="scene based architecture">
-<img src="/CSC324-Portfolio/images/architecture_assets.png" alt="asset architecture"></p>
+<p><img src="/CSC324-Portfolio/images/architecture_scenes.png" alt="scene based architecture"></p>
+<p><img src="/CSC324-Portfolio/images/architecture_assets.png" alt="asset architecture"></p>
 <p>I co-designed the front-end portion of GrinnSim. The architectural pattern that our program employs is a scene-based architecture. This works by switching through our &ldquo;scenes&rdquo; to activate different displays/options on the screen. In particular, I focused mainly on the character design and main menu scenes, which had a lot more assets in comparision to submenu screnes (that were mostly text based gameplay). The components that result from this are the scenes modules themselves, along with the components that comprise each scene. The components in the character design screen, for example, are the asset management (how I organized the assets into different categories to be used and drawn at different stages) and the ui layout system (how everything was drawn on the screen). For most components, we used the love.graphics library to load assets into the front-end and create shapes using Love2D as needed.</p>
   
     <h2><a href="/CSC324-Portfolio/posts/medium-scale-abstraction/">Medium Scale Abstraction</a></h2>
@@ -118,19 +118,8 @@ You should also include relevant code snippets and/or screenshots/images in your
   
     <h2><a href="/CSC324-Portfolio/posts/evaluation/">Evaluation</a></h2>
     <h2 id="evaluation">Evaluation</h2>
-<p>Identify relevant artifacts from the human-centered design process that address the following points:</p>
-<ul>
-<li>What was the design of your user study to evaluate your artifact?</li>
-<li>What were the results of this user study?</li>
-<li>What were the main points of future development that you took away from this activity?</li>
-</ul>
-<p>Evidence that I have completed this competency:</p>
-<ul>
-<li>A statement of where the sample is located in your project, i.e., the specific repository, files, and line numbers (when applicable).
-You should also include relevant code snippets and/or screenshots/images in your write-up.</li>
-<li>A statement of your specific contributions to the sample, in particular, if the sample is drawn from group work and/or generative AI was used to build portions of the sample. You should state what parts of the sample you built yourself and what parts you relied on others (teammates or AI) to build.</li>
-<li>A short description (1–2 paragraphs) of how the sample demonstrates mastery of the given development competency. This description is competency-specific, guided by a set of questions you should answer in your description. Each question should be addressed in a few (2–3 sentences) in your description.</li>
-</ul>
+<p><img src="/CSC324-Portfolio/images/evaluation_snippet.png" alt="evaluation observation notes"></p>
+<p>For evaluation, I had an external peer do a playthrough of the character design screen along with some of the functions on the main menu. I then observed and asked questions about what she thought of the current design/any recommendations for improvement. When going through the character design screen, the user was struggling to find the &lsquo;confirm&rsquo; button on the bottom of the screen (because it was off the screen). This created confusion. There was also not a clear understanding of what the purpose of the game was without being given the proper context. This meant that there was just clicking around on the screen to see what different buttons did.</p>
   
     <h2><a href="/CSC324-Portfolio/posts/prototyping/">Prototyping</a></h2>
     <h2 id="prototyping">Prototyping</h2>

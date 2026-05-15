@@ -6,6 +6,8 @@ title = 'Evaluation'
 
 ## Evaluation
 
+![evaluation observation notes](/CSC324-Portfolio/images/evaluation_snippet.png)
+
 For evaluation, I had an external peer do a playthrough of the character design screen along with some of the functions on the main menu. I then observed and asked questions about what she thought of the current design/any recommendations for improvement. When going through the character design screen, the user was struggling to find the 'confirm' button on the bottom of the screen (because it was off the screen). This created confusion. There was also not a clear understanding of what the purpose of the game was without being given the proper context. This meant that there was just clicking around on the screen to see what different buttons did. 
 
 For future development, I took away that more context would be helpful for understanding how to play the game as a standalone (meaning without us telling the user directly what they need to do). I also took it as an opportunity to reflect on what assumptions I had before the evalution. The main one being that users would already have a base knowledge of both BitLife and what the general idea of our version of BitLife would do. 
